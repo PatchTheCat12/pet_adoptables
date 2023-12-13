@@ -1,0 +1,16 @@
+<adoptables>
+
+<adoptable id="1">
+    <variation id="1" chance="1.0">
+        <age image="egg1.png" />
+        <age date="2023-11-20" image="pet1RARE.png" />
+        <age date="2023-11-25" image="pet2RARE.png" />
+    </variation>
+    <variation id="2" chance="5.0">
+        <age image="egg1.png" />
+        <age date="2023-11-20" image="pet1.png" />
+        <age date="2023-11-25" image="pet2.png" />
+    </variation>
+</adoptable>
+
+</adoptables>
